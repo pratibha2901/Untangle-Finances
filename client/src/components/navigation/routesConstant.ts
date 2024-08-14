@@ -1,0 +1,14 @@
+export const HOME_ROUTE = "/home";
+export const ABOUT = "about";
+export const ABOUT_ROUTE = `${HOME_ROUTE}/${ABOUT}`;
+export const CONTACT = "contact-us";
+export const CONTACT_ROUTE = `${HOME_ROUTE}/${CONTACT}`;
+export const CALCULATE = "calculator";
+export const CALCULATE_ROUTE = `${HOME_ROUTE}/${CALCULATE}`;
+export const IPO_CALCULATE = "ipo-calculator";
+export const IPO_CALCULATE_ROUTE = `${CALCULATE_ROUTE}/${IPO_CALCULATE}`;
+export const INCOME_TAX_CALCULATE = "income-tax-calculator";
+export const INCOME_TAX_CALCULATE_ROUTE = `${CALCULATE}/${INCOME_TAX_CALCULATE}`;
+export const LOAN_CALCULATE = "loan-calculator";
+export const LOAN_CALCULATE_ROUTE = `${CALCULATE}/${LOAN_CALCULATE}`;
+export const HOME = "home"

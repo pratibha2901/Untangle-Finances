@@ -1,0 +1,11 @@
+.main-content {
+    top: 10px !important;
+    
+    height: 700px !important;
+    left: 50px !important;
+    position: relative!important;
+    .open {
+        
+        margin-left: 50px;
+    }
+}
